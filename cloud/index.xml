@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clouds on SysEscape</title>
-    <link>http://54.197.45.41/cloud/</link>
+    <link>https://sysescape.github.io/cloud/</link>
     <description>Recent content in Clouds on SysEscape</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://54.197.45.41/cloud/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sysescape.github.io/cloud/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DevSecOps</title>
-      <link>http://54.197.45.41/cloud/aws/</link>
+      <link>https://sysescape.github.io/cloud/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://54.197.45.41/cloud/aws/</guid>
+      <guid>https://sysescape.github.io/cloud/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DevSecOps</title>
-      <link>http://54.197.45.41/cloud/azure/</link>
+      <link>https://sysescape.github.io/cloud/azure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://54.197.45.41/cloud/azure/</guid>
+      <guid>https://sysescape.github.io/cloud/azure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DevSecOps</title>
-      <link>http://54.197.45.41/cloud/gcp/</link>
+      <link>https://sysescape.github.io/cloud/gcp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://54.197.45.41/cloud/gcp/</guid>
+      <guid>https://sysescape.github.io/cloud/gcp/</guid>
       <description></description>
     </item>
     
